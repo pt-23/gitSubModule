@@ -1,0 +1,3 @@
+[submodule "src/entity/module"]
+	path = src/entity/module
+	url = https://github.com/pt-23/gitSubModuleSharedLib

@@ -1,4 +1,4 @@
-import {Order, Currency} from "./gitSubModuleSharedLib/merchant"
+import {Order, Currency} from "../entity/module/merchant"
 
 function createOrder(order: Order) {
     return "Order is, " + JSON.stringify(order);
