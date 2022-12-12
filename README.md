@@ -16,7 +16,7 @@ Experimenting GitSubmodules
 
 4. Git update submodule file
     If we want to update submodule. CD to the submodule folder and run git add, commit and push commands. Once the changes are pushed. Navigate to parent repository and update the version by again performing git add, commit and push on the parent.
-    
+
     ``` 
     On branch main Your branch is up to date with 'origin/main'.
 
@@ -26,3 +26,5 @@ Experimenting GitSubmodules
         modified:   README.md
         modified:   gitSubModuleSharedLib (new commits)
     ``` 
+
+5. Git submodule works out of commit id and not by branch name
